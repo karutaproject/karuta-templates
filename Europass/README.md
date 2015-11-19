@@ -14,3 +14,10 @@ Using the Europass Package you can add an Europass section in your portfolio mod
     *europass-parts,EuropassL,Add Europass@en,designer*
 1. Click the menu you created and add Europass. A new section should appear.
 1. That's all. You can delete the menu.
+
+##How edit metadata
+
+1. Edit the Europass Section and change the semantic tag, for example suppress the L
+2. Redisplay the page, you can see now standard karuta display. You can edit metadata.
+3. Change the semantic tag of the Europass Section to EuropassL.
+4. Reload the portfolio model.
