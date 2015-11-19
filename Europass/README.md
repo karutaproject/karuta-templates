@@ -1,5 +1,3 @@
-#Europass
-
 ##How to use the Europass Package
 
 1. import the europass.zip logged as root in Karuta
