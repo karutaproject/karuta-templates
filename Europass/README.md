@@ -1,6 +1,6 @@
 #Europass
 
-To use the Europass Package
+##How to use the Europass Package
 
 1. import the europass.zip logged as root in Karuta
 1. In the portfolio model in which you want an Europass section, add in a unit menu: 
