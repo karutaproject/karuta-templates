@@ -2,7 +2,8 @@
 
 ##Europass Section in a portfolio
 
-Using the Europass Package you can add an europass section in your portfolio model.
+Using the Europass Package you can add an Europass section in your portfolio model.
+
 ![Europass Section Screenshot](https://github.com/karutaproject/karuta-templates/blob/master/Europass/EuropassScreenshot.jpg "Europass Section Screenshot")
 
 ##How to use the Europass Package
