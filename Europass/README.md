@@ -1,6 +1,6 @@
 #Europass
 
-##Europass Section in a portfolio
+##Europass Subection in a portfolio
 
 Using the Europass Package you can add an Europass section in your portfolio model.
 
