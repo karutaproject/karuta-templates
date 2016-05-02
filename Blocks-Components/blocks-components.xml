@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><portfolio code="0" id="017c20af-bb95-41f0-83e7-0ab925f4fdc7" owner="N"><version>4</version><asmRoot delete="Y" id="87a07a6d-dc13-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2015-11-25 09:57:18.0" xsi_type=""><metadata-wad seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" public="Y" semantictag="root karuta-components" sharedNode="N" sharedResource="N" /><asmResource contextid="87a07a6d-dc13-11e5-9026-00215e6c3f32" id="87a727d5-dc13-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:51:17.0" xsi_type="nodeRes"><code>blocks.blocks-components</code>
+  <label lang="en">Blocks - Components</label>
+  <label lang="fr">Blocs - Composantes</label></asmResource><asmResource contextid="87a07a6d-dc13-11e5-9026-00215e6c3f32" id="87a439ba-dc13-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:40:10.0" xsi_type="context"><text lang="en"/>
+  <text lang="fr"/></asmResource><asmUnit delete="Y" id="bc17ee51-dc13-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnit"><metadata-wad seenoderoles="all" /><metadata-epm background-color="" /><metadata multilingual-node="Y" semantictag="asmUnit asm-block-2" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="bc17ee51-dc13-11e5-9026-00215e6c3f32" id="bc192239-dc13-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:41:17.0" xsi_type="nodeRes"><lastmodified/>
+  <code/>
+  <label lang="fr">Éléments Bloc</label>
+  <label lang="en">Block Elements</label>
+  <value/></asmResource><asmResource contextid="bc17ee51-dc13-11e5-9026-00215e6c3f32" id="bc19237a-dc13-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:41:17.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource><asmContext delete="Y" id="32b62dda-dc14-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type=""><metadata-wad delnoderoles="student etudiant" editresroles="student etudiant" graphicerroles="student etudiant" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="txtblck-student" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="32b62dda-dc14-11e5-9026-00215e6c3f32" id="32b7ba6c-dc14-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:53:14.0" xsi_type="nodeRes"><lastmodified/>
+  <code/>
+  <label lang="fr"/>
+  <label lang="en"/>
+  <value/></asmResource><asmResource contextid="32b62dda-dc14-11e5-9026-00215e6c3f32" id="32b7bbb9-dc14-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:53:14.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource><asmResource contextid="32b62dda-dc14-11e5-9026-00215e6c3f32" id="32b7bcc9-dc14-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:53:14.0" xsi_type="TextField"><lastmodified>2016-02-29 10:53:01</lastmodified>
+  <text lang="fr"/>
+  <text lang="en"/></asmResource></asmContext><asmContext delete="Y" id="7999159e-defb-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type=""><metadata-wad delnoderoles="student etudiant" editresroles="student etudiant" graphicerroles="student etudiant" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="obdblck-student" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="7999159e-defb-11e5-9026-00215e6c3f32" id="799b1c2e-defb-11e5-9026-00215e6c3f32" last_modif="2016-01-18 14:06:38.0" xsi_type="nodeRes"><lastmodified/>
+				<code/>
+				<label lang="fr"/>
+				<label lang="en"/></asmResource><asmResource contextid="7999159e-defb-11e5-9026-00215e6c3f32" id="799b19f3-defb-11e5-9026-00215e6c3f32" last_modif="2016-01-18 14:06:38.0" xsi_type="context"><text lang="fr"/>
+				<text lang="en"/></asmResource><asmResource contextid="7999159e-defb-11e5-9026-00215e6c3f32" id="799b1b3b-defb-11e5-9026-00215e6c3f32" last_modif="2016-04-21 11:53:17.0" xsi_type="Oembed"><lastmodified>2016-04-21 11:53:01</lastmodified>
+  <url lang="fr"/>
+  <url lang="en"/></asmResource></asmContext><asmUnitStructure delete="Y" id="1636fb41-fcfd-11e5-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-21 19:41:37.0" xsi_type="DocumentBlock"><metadata-wad collapsible="Y" delnoderoles="student etudiant" editnoderoles="student etudiant" seenoderoles="all" /><metadata-epm background-color="#f2f2f2" /><metadata multilingual-node="Y" semantictag="docblck-student" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="1636fb41-fcfd-11e5-b1b4-00215e6c3f32" id="1638513b-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+				<code/>
+				<label lang="fr">"DocumentBlock"</label>
+				<label lang="en">"DocumentBlock"</label></asmResource><asmResource contextid="1636fb41-fcfd-11e5-b1b4-00215e6c3f32" id="163852aa-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+				<text lang="en"/></asmResource><asmContext delete="Y" id="1636fbe3-fcfd-11e5-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-07 16:14:02.0" xsi_type=""><metadata-wad editresroles="student etudiant" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="document" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="1636fbe3-fcfd-11e5-b1b4-00215e6c3f32" id="16385605-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="1636fbe3-fcfd-11e5-b1b4-00215e6c3f32" id="16385531-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="1636fbe3-fcfd-11e5-b1b4-00215e6c3f32" id="16385437-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="Document"><lastmodified/>
+					<filename lang="fr"/>
+					<size lang="fr"/>
+					<type lang="fr"/>
+					<fileid lang="fr"/>
+					<filename lang="en"/>
+					<size lang="en"/>
+					<type lang="en"/>
+					<fileid lang="en"/></asmResource></asmContext><asmContext delete="Y" id="1636fc75-fcfd-11e5-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-07 16:14:24.0" xsi_type=""><metadata-wad editresroles="student etudiant" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="image" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="1636fc75-fcfd-11e5-b1b4-00215e6c3f32" id="16385759-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="1636fc75-fcfd-11e5-b1b4-00215e6c3f32" id="16385831-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="1636fc75-fcfd-11e5-b1b4-00215e6c3f32" id="16385926-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="Image"><lastmodified/>
+					<filename lang="fr"/>
+					<size lang="fr"/>
+					<type lang="fr"/>
+					<fileid lang="fr"/>
+					<filename lang="en"/>
+					<size lang="en"/>
+					<type lang="en"/>
+					<fileid lang="en"/></asmResource></asmContext><asmContext delete="Y" id="1636fd17-fcfd-11e5-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-07 16:14:32.0" xsi_type=""><metadata-wad editresroles="student etudiant" query="karuta.karuta-structured-resources.coverage.label" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="cover" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="1636fd17-fcfd-11e5-b1b4-00215e6c3f32" id="16385a6d-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="1636fd17-fcfd-11e5-b1b4-00215e6c3f32" id="16385c16-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="1636fd17-fcfd-11e5-b1b4-00215e6c3f32" id="16385b49-fcfd-11e5-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="Get_Resource"><lastmodified/>
+					<code>@1</code>
+					<value>1</value>
+					<label lang="fr">étendu</label>
+					<label lang="en">cover</label></asmResource></asmContext></asmUnitStructure><asmUnitStructure delete="Y" id="ace2bc37-066f-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-21 19:41:24.0" xsi_type="URLBlock"><metadata-wad collapsible="Y" delnoderoles="student etudiant" editnoderoles="student etudiant" seenoderoles="all" /><metadata-epm background-color="#f2f2f2" /><metadata multilingual-node="Y" semantictag="urlblck-student" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="ace2bc37-066f-11e6-b1b4-00215e6c3f32" id="ace391b0-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+				<code/>
+				<label lang="fr">"URLBlock"</label>
+				<label lang="en">"URLBlock"</label></asmResource><asmResource contextid="ace2bc37-066f-11e6-b1b4-00215e6c3f32" id="ace39288-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+				<text lang="en"/></asmResource><asmContext delete="Y" id="ace2bcc3-066f-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-19 16:47:14.0" xsi_type=""><metadata-wad editresroles="student etudiant" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="URL" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="ace2bcc3-066f-11e6-b1b4-00215e6c3f32" id="ace3951d-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="ace2bcc3-066f-11e6-b1b4-00215e6c3f32" id="ace39466-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="ace2bcc3-066f-11e6-b1b4-00215e6c3f32" id="ace393a6-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="URL"><lastmodified/>
+					<label lang="fr"/>
+					<label lang="en"/>
+					<url lang="fr"/>
+					<url lang="en"/></asmResource></asmContext><asmContext delete="Y" id="ace2b41f-066f-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-19 16:47:27.0" xsi_type=""><metadata-wad editresroles="student etudiant" seenoderoles="all" /><metadata-epm width="100" /><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="image" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="ace2b41f-066f-11e6-b1b4-00215e6c3f32" id="ace38dec-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="ace2b41f-066f-11e6-b1b4-00215e6c3f32" id="ace38d08-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="ace2b41f-066f-11e6-b1b4-00215e6c3f32" id="ace38bc0-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="Image"><lastmodified/>
+					<filename lang="fr"/>
+					<size lang="fr"/>
+					<type lang="fr"/>
+					<fileid lang="fr"/>
+					<filename lang="en"/>
+					<size lang="en"/>
+					<type lang="en"/>
+					<fileid lang="en"/></asmResource></asmContext><asmContext delete="Y" id="ace2b53b-066f-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-19 16:47:45.0" xsi_type=""><metadata-wad editresroles="student etudiant" query="karuta.karuta-structured-resources.coverage.label" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="cover" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="ace2b53b-066f-11e6-b1b4-00215e6c3f32" id="ace38f06-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="ace2b53b-066f-11e6-b1b4-00215e6c3f32" id="ace39083-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="ace2b53b-066f-11e6-b1b4-00215e6c3f32" id="ace38fd1-066f-11e6-b1b4-00215e6c3f32" last_modif="2016-04-07 16:02:44.0" xsi_type="Get_Resource"><lastmodified/>
+					<code>@1</code>
+					<value>1</value>
+					<label lang="fr">étendu</label>
+					<label lang="en">cover</label></asmResource></asmContext></asmUnitStructure><asmUnitStructure delete="Y" id="426bd810-070e-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-21 19:41:33.0" xsi_type="ImageBlock"><metadata-wad collapsible="Y" delnoderoles="student etudiant" editnoderoles="student etudiant" seenoderoles="all" /><metadata-epm background-color="#f2f2f2" /><metadata multilingual-node="Y" semantictag="imgblck-student" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="426bd810-070e-11e6-b1b4-00215e6c3f32" id="426d44d0-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-21 19:40:43.0" xsi_type="nodeRes"><lastmodified/>
+  <code/>
+  <label lang="fr">"ImageBlock"</label>
+  <label lang="en"/>
+  <value/></asmResource><asmResource contextid="426bd810-070e-11e6-b1b4-00215e6c3f32" id="426d45fc-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-21 19:40:43.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource><asmContext delete="Y" id="426bd794-070e-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-20 11:32:56.0" xsi_type=""><metadata-wad seenoderoles="all" /><metadata-epm width="100" /><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="image" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="426bd794-070e-11e6-b1b4-00215e6c3f32" id="426d4314-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="426bd794-070e-11e6-b1b4-00215e6c3f32" id="426d40b1-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="426bd794-070e-11e6-b1b4-00215e6c3f32" id="426d4202-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-21 11:37:08.0" xsi_type="Image"><lastmodified/>
+  <filename lang="fr"/>
+  <size lang="fr"/>
+  <type lang="fr"/>
+  <fileid lang="fr"/>
+  <filename lang="en"/>
+  <size lang="en"/>
+  <type lang="en"/>
+  <fileid lang="en"/></asmResource></asmContext><asmContext delete="Y" id="426bd715-070e-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-20 11:32:56.0" xsi_type=""><metadata-wad query="karuta.karuta-structured-resources.coverage.label" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="cover" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="426bd715-070e-11e6-b1b4-00215e6c3f32" id="426d3ee3-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="nodeRes"><lastmodified/>
+					<code/>
+					<label lang="fr"/>
+					<label lang="en"/></asmResource><asmResource contextid="426bd715-070e-11e6-b1b4-00215e6c3f32" id="426d3daa-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="context"><text lang="fr"/>
+					<text lang="en"/></asmResource><asmResource contextid="426bd715-070e-11e6-b1b4-00215e6c3f32" id="426d3be7-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="Get_Resource"><lastmodified/>
+					<code>@1</code>
+					<value>1</value>
+					<label lang="fr">étendu</label>
+					<label lang="en">cover</label></asmResource></asmContext></asmUnitStructure></asmUnit><asmUnit delete="Y" id="6fbb5645-def8-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnit"><metadata-wad seenoderoles="all" /><metadata-epm background-color="" /><metadata multilingual-node="Y" semantictag="asmUnit" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="6fbb5645-def8-11e5-9026-00215e6c3f32" id="6fbd2e44-def8-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:15:57.0" xsi_type="nodeRes"><lastmodified/>
+  <code/>
+  <label lang="fr">Sous-Section Blocs</label>
+  <label lang="en">Block Subsections</label>
+  <value/></asmResource><asmResource contextid="6fbb5645-def8-11e5-9026-00215e6c3f32" id="6fbd307c-def8-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:15:57.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource><asmUnitStructure delete="Y" id="834e233e-def8-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnitStructure"><metadata-wad collapsible="Y" delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="#f2f2f2" /><metadata collapsed="N" multilingual-node="Y" semantictag="section-asm-block-1" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="834e233e-def8-11e5-9026-00215e6c3f32" id="83502191-def8-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:20.0" xsi_type="nodeRes"><lastmodified/>
+  <code/>
+  <label lang="fr">Sous-Section Blocs (1 colonne)</label>
+  <label lang="en">Block Subsection (1 column)</label>
+  <value/></asmResource><asmResource contextid="834e233e-def8-11e5-9026-00215e6c3f32" id="83502065-def8-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:20.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnitStructure><asmUnitStructure delete="Y" id="7c9fcaf5-defa-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnitStructure"><metadata-wad collapsible="Y" delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="#f2f2f2" /><metadata multilingual-node="Y" semantictag="section-asm-block-2" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="7c9fcaf5-defa-11e5-9026-00215e6c3f32" id="7ca10d92-defa-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:22.0" xsi_type="nodeRes"><code/>
+  <label lang="en">Block Subsection (2 columns)</label>
+  <label lang="fr">Sous-Section Blocs (2 colonnes)</label>
+  <value/></asmResource><asmResource contextid="7c9fcaf5-defa-11e5-9026-00215e6c3f32" id="7ca10c24-defa-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:22.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnitStructure><asmUnitStructure delete="Y" id="7e457b16-defa-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnitStructure"><metadata-wad collapsible="Y" delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="#f2f2f2" /><metadata multilingual-node="Y" semantictag="section-asm-block-3" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="7e457b16-defa-11e5-9026-00215e6c3f32" id="7e46ba9b-defa-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:23.0" xsi_type="nodeRes"><code/>
+  <label lang="en">Block Subsection (3 columns)</label>
+  <label lang="fr">Sous-Section Blocs (3 colonnes)</label>
+  <value/></asmResource><asmResource contextid="7e457b16-defa-11e5-9026-00215e6c3f32" id="7e46b95d-defa-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:23.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnitStructure><asmUnitStructure delete="Y" id="7f69b91f-defa-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnitStructure"><metadata-wad collapsible="Y" delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="#f2f2f2" /><metadata multilingual-node="Y" semantictag="section-asm-block-4" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="7f69b91f-defa-11e5-9026-00215e6c3f32" id="7f6a9ef7-defa-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:32.0" xsi_type="nodeRes"><code/>
+  <label lang="en">Block Subsection (4 columns)</label>
+  <label lang="fr">Sous-Section Blocs (4 colonnes)</label>
+  <value/></asmResource><asmResource contextid="7f69b91f-defa-11e5-9026-00215e6c3f32" id="7f6a9ce2-defa-11e5-9026-00215e6c3f32" last_modif="2016-05-02 14:19:32.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnitStructure></asmUnit><asmUnit delete="Y" id="c013f42b-dc13-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnit"><metadata-wad delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="" /><metadata multilingual-node="Y" semantictag="page-asm-block-1" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="c013f42b-dc13-11e5-9026-00215e6c3f32" id="c0150cd4-dc13-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:41:47.0" xsi_type="nodeRes"><lastmodified/>
+  <code/>
+  <label lang="fr">Page Blocs (1 colonne)</label>
+  <label lang="en">Blocks Page (1 column)</label>
+  <value/></asmResource><asmResource contextid="c013f42b-dc13-11e5-9026-00215e6c3f32" id="c0150e1e-dc13-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:41:47.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnit><asmUnit delete="Y" id="a2bb8139-dc16-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnit"><metadata-wad delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="" /><metadata multilingual-node="Y" semantictag="page-asm-block-2" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="a2bb8139-dc16-11e5-9026-00215e6c3f32" id="a2bca67d-dc16-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:41:58.0" xsi_type="nodeRes"><code/>
+  <label lang="en">Blocks Page (2 colums)</label>
+  <label lang="fr">Page Blocs (2 colonnes)</label>
+  <value/></asmResource><asmResource contextid="a2bb8139-dc16-11e5-9026-00215e6c3f32" id="a2bca897-dc16-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:41:58.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnit><asmUnit delete="Y" id="a4480d7d-dc16-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnit"><metadata-wad delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="" /><metadata multilingual-node="Y" semantictag="page-asm-block-3" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="a4480d7d-dc16-11e5-9026-00215e6c3f32" id="a449161f-dc16-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:42:06.0" xsi_type="nodeRes"><code/>
+  <label lang="en">Blocks Page (3 columns)</label>
+  <label lang="fr">Page Blocs (3 colonnes)</label>
+  <value/></asmResource><asmResource contextid="a4480d7d-dc16-11e5-9026-00215e6c3f32" id="a4491848-dc16-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:42:06.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnit><asmUnit delete="Y" id="cce5a02f-dc16-11e5-9026-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-02-18 16:23:16.0" xsi_type="asmUnit"><metadata-wad delnoderoles="student etudiant" duplicateroles="" editnoderoles="student etudiant" menuroles="blocks-components,docblck-student, Ajouter un document@fr/Add a Document@en, student etudiant;blocks-components,urlblck-student, Ajouter un lien@fr/Add a Link@en, student etudiant;blocks-components,imgblck-student, Ajouter une image@fr/Add an Image@en, student etudiant;blocks-components,txtblck-student, Ajouter un texte@fr/Add a Text@en, student etudiant;blocks-components,obdblck-student, Ajouter un oembed@fr/Add a oembed@en, student etudiant" seenoderoles="all" /><metadata-epm background-color="" /><metadata multilingual-node="Y" semantictag="page-asm-block-4" sharedNode="N" sharedNodeResource="N" /><asmResource contextid="cce5a02f-dc16-11e5-9026-00215e6c3f32" id="cce6e5d1-dc16-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:42:11.0" xsi_type="nodeRes"><code/>
+  <label lang="en">Blocks Page (4 columns)</label>
+  <label lang="fr">Page Blocs (4 colonnes)</label>
+  <value/></asmResource><asmResource contextid="cce5a02f-dc16-11e5-9026-00215e6c3f32" id="cce6e828-dc16-11e5-9026-00215e6c3f32" last_modif="2016-02-29 10:42:11.0" xsi_type="context"><text lang="fr"/>
+  <text lang="en"/></asmResource></asmUnit></asmRoot></portfolio>
