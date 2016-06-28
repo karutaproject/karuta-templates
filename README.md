@@ -1,3 +1,3 @@
 # karuta-templates
-Templates to be used with Karuta
+Templates to be used with Karuta and workbooks
 

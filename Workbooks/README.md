@@ -1,3 +1,3 @@
-# Workbook 1 Components, Rubric and Model
-Portfolios corresponding to Workbook1
+# Workbooks
+Workbooks explain how to work with Karuta
 
