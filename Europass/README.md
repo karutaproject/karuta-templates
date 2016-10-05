@@ -14,10 +14,5 @@ Using the Europass Package you can add an Europass section in your portfolio mod
     *europass.parts,EuropassL,ajouter Europass@fr/Add Europass@en,designer*
 1. Click the menu you created and add Europass. A new section should appear.
 1. That's all. You can delete the menu.
+1.  Edit Mother  Tongue  and Foreign Languages metadata to set edit roles (by default student and etudiant  can  add and edit.  The edit and delete roles  of added foreign language  are setted to 'user' .
 
-##If you need to edit Metadata
-
-1. Edit the Europass Subection and change the semantic tag, for example suppress the L of EuropassL
-2. Redisplay the page, you can see now standard karuta display and you can edit metadata.
-3. Change the semantic tag of the Europass Section to EuropassL.
-4. Reload the portfolio model.
