@@ -8,7 +8,7 @@ Using the Europass Package you can add an Europass section in your portfolio mod
 
 ##How to use the Europass Package
 
-1. Import the package EUROPASS.zip logged as root in Karuta (do not select a project)
+1. Log into Karuta as root and import the package EUROPASS.zip (do not select a project).
 1. In the portfolio model in which you want an Europass section, add in a unit menu: 
 
     *europass.parts,EuropassL,ajouter Europass@fr/Add Europass@en,designer*
