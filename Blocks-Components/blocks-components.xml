@@ -92,7 +92,7 @@
   <label lang="fr">"ImageBlock"</label>
   <label lang="en"/>
   <value/></asmResource><asmResource contextid="426bd810-070e-11e6-b1b4-00215e6c3f32" id="426d45fc-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-21 19:40:43.0" xsi_type="context"><text lang="fr"/>
-  <text lang="en"/></asmResource><asmContext delete="Y" id="426bd794-070e-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-20 11:32:56.0" xsi_type=""><metadata-wad seenoderoles="all" /><metadata-epm width="100" /><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="image" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="426bd794-070e-11e6-b1b4-00215e6c3f32" id="426d4314-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="nodeRes"><lastmodified/>
+  <text lang="en"/></asmResource><asmContext delete="Y" id="426bd794-070e-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-20 11:32:56.0" xsi_type=""><metadata-wad editresroles="student etudiant" seenoderoles="all" /><metadata-epm width="100" /><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="image" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="426bd794-070e-11e6-b1b4-00215e6c3f32" id="426d4314-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="nodeRes"><lastmodified/>
 					<code/>
 					<label lang="fr"/>
 					<label lang="en"/></asmResource><asmResource contextid="426bd794-070e-11e6-b1b4-00215e6c3f32" id="426d40b1-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="context"><text lang="fr"/>
@@ -104,7 +104,7 @@
   <filename lang="en"/>
   <size lang="en"/>
   <type lang="en"/>
-  <fileid lang="en"/></asmResource></asmContext><asmContext delete="Y" id="426bd715-070e-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-20 11:32:56.0" xsi_type=""><metadata-wad query="karuta.karuta-structured-resources.coverage.label" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="cover" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="426bd715-070e-11e6-b1b4-00215e6c3f32" id="426d3ee3-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="nodeRes"><lastmodified/>
+  <fileid lang="en"/></asmResource></asmContext><asmContext delete="Y" id="426bd715-070e-11e6-b1b4-00215e6c3f32" read="Y" role="" submit="Y" write="Y" last_modif="2016-04-20 11:32:56.0" xsi_type=""><metadata-wad editresroles="student etudiant" query="karuta.karuta-structured-resources.coverage.label" seenoderoles="all" /><metadata-epm/><metadata multilingual-node="Y" multilingual-resource="Y" semantictag="cover" sharedNode="N" sharedNodeResource="N" sharedResource="N" /><asmResource contextid="426bd715-070e-11e6-b1b4-00215e6c3f32" id="426d3ee3-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="nodeRes"><lastmodified/>
 					<code/>
 					<label lang="fr"/>
 					<label lang="en"/></asmResource><asmResource contextid="426bd715-070e-11e6-b1b4-00215e6c3f32" id="426d3daa-070e-11e6-b1b4-00215e6c3f32" last_modif="2016-04-20 11:32:56.0" xsi_type="context"><text lang="fr"/>
