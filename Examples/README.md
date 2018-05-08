@@ -1,13 +1,7 @@
 # Exemples d'utilisation / Use Cases
 
 
-## multiple-exemple1.zip
-
-Projet avec exemples d'utilisation de get-multiple et import_multiple.
-
-Project with examples of use of get-multiple and import_multiple.
-
-## HEC Carriéres (hec-carrieres2.zip)
+## HEC Carrières (hec-carrieres2.zip)
 
 Outil d'aide à la rédaction de CV à l'usage des étudiants de HEC Montréal.
 Permet la supervision / communication entre l'étudiant et un conseiller du service de gestion de carrière.
@@ -52,3 +46,10 @@ Support tool for a workshop on creativity offered by the University of Grenoble 
 Competency-based process.
 Contains a star table (Dashboard with SVG element), a batch script (Batch) and it's associated form (BatchForm).
 Project in French only.
+
+## get-multiple et import_multiple (multiple-exemple1.zip)
+
+Projet avec exemples d'utilisation de get-multiple et import_multiple.
+
+Project with examples of use of get-multiple and import_multiple.
+
