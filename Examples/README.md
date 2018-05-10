@@ -16,7 +16,7 @@ Fully bilingual project.
 
 Outil d'accompagnement du programme L'école des dirigeants offert par HEC Montréal. L'école des dirigeants est un programme de formation en management à l'intention d'employés d'entreprise.
 Les enseignants de chaque module ont une vue différente du portfolio. Le projet inclut aussi une synthèse de cohorte (tableau récapitulatif sur plusieurs portfolios) et un script de création par lot (Batch).
-Projet en franÁais uniquement.
+Projet en français uniquement.
 
 Supporting tool for HEC Montréal's école des dirigeants program. L'école des dirigeants is a management training program for corporate employees.
 The teachers in each module have a different view of the portfolio. The project also includes a cohort summary (summary table on multiple portfolios) and a batch script (Batch).
