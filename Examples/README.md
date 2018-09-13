@@ -38,7 +38,7 @@ Contains a CV writing tool and an interactive bubble map (BubbleMap).
 Outil d'accompagnement pour un cours de politique économique offert par HEC Montréal. Le portfolio est prévu pour une équipe de 5 étudiants : certaines partie sont éditables par les 5 alors que d'autres sont éditables par un seul membre de l'équipe. Le processus de création par lot (batch) met à jours les rôles ainsi que les libellés des différentes sections avec les nom des étudiants.
 *Projet en français uniquement.*
 
-## Promising 2 (promising2.zip)
+## Promising2 (promising2.zip)
 
 Outil d'accompagnement à un atelier sur la créativité offert par l'université Grenoble Alpes dans ses différents programmes.
 Processus axé sur les compétences.
