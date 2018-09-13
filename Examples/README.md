@@ -35,7 +35,7 @@ Contains a CV writing tool and an interactive bubble map (BubbleMap).
 Project in French only.
 
 
-## Promising (promising2.zip)
+## Promising 2 (promising2.zip)
 
 Outil d'accompagnement à un atelier sur la créativité offert par l'université Grenoble Alpes dans ses différents programmes.
 Processus axé sur les compétences.
