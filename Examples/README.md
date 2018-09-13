@@ -18,7 +18,7 @@ Outil d'accompagnement du programme L'école des dirigeants offert par HEC Montr
 Les enseignants de chaque module ont une vue différente du portfolio. Le projet inclut aussi une synthèse de cohorte (tableau récapitulatif sur plusieurs portfolios) et un script de création par lot (Batch).
 Projet en français uniquement.
 
-Supporting tool for HEC Montréal's école des dirigeants program. L'école des dirigeants is a management training program for corporate employees.
+Supporting tool for HEC Montreal's école des dirigeants program. L'école des dirigeants is a management training program for corporate employees.
 The teachers in each module have a different view of the portfolio. The project also includes a cohort summary (summary table on multiple portfolios) and a batch script (Batch).
 Project in French only.
 
@@ -40,7 +40,7 @@ Project in French only.
 Outil d'accompagnement à un atelier sur la créativité offert par l'université Grenoble Alpes dans ses différents programmes.
 Processus axé sur les compétences.
 Contient un tableau étoile (Dashboard avec élément SVG), un script de création par lot (Batch) et un formulaire de création (BatchForm).
-Projet en franÁais uniquement.
+Projet en français uniquement.
 
 Support tool for a workshop on creativity offered by the University of Grenoble Alpes in its various programs.
 Competency-based process.
