@@ -5,7 +5,8 @@
 
 Outil d'aide à la rédaction de CV à l'usage des étudiants de HEC Montréal.
 Permet la supervision / communication entre l'étudiant et un conseiller du service de gestion de carrière.
-Projet entiérement bilingue.
+
+Projet entièrement bilingue.
 
 CV writing help tool for students at HEC Montréal.
 Allows supervision / communication between the student and a career management advisor.
