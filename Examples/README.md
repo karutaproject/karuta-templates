@@ -58,7 +58,7 @@ Ce projet introduit aussi l'usage exclusif de tableaux pour présenter l'informa
 
 Finalement, cette version du projet s'accompagne d'un module d'inscription (création de compte et de portfolio) directement par les usagers, une autre nouveauté introduite par ce projet.
 
-Module d'inscription pour Promising3 (inscription-promising3.zip)
+## Module d'inscription pour Promising3 (inscription-promising3.zip)
 La troisième phase du projet Promising introduit le concept de module d'inscription par l'utilisateur, qui permet de mettre la création de comptes usagers et de portfolios entre les mains d'un usager Karuta (dans ce cas-ci l'enseignant d'un atelier en créativité Promising).
 
 Après que l'administrateur Karuta ait créé le compte de l'enseignant et l'atelier, l'enseignant envoi à ses étudiants un hyperlien qui leur permet de s'y inscrire. L'enseignant valide ensuite l'inscription de chaque étudiant puis lance la création des comptes et des portfolios. Au moment de la création du portfolio étudiant, une page est automatiquement ajoutée pour chaque étudiant dans le Portfolio d'évaluation pour l'enseignant, qui permet à ce dernier d'évaluer tous ses étudiants à même un unique portfolio.
