@@ -50,6 +50,7 @@ Competency-based process.
 Contains a star table (Dashboard with SVG element), a batch script (Batch) and it's associated form (BatchForm).
 *Project in French only.*
 
+<!--
 ## Promising3 (promising3.zip)
 Cette troisième version du projet Promising introduit l'usage d'éléments Image comme choix dans des éléments Get-Resource (au lieu d'éléments Item). Ceci résout le problème de l'affichage des évaluations de type smiley dans les fichiers exportés (export de tableaux et du portfolio en entier).
 Note : les objets Image doivent être créés à même le portfolio plutôt que dans un référentiel.
@@ -58,11 +59,13 @@ Ce projet introduit aussi l'usage exclusif de tableaux pour présenter l'informa
 
 Finalement, cette version du projet s'accompagne d'un module d'inscription (création de compte et de portfolio) directement par les usagers, une autre nouveauté introduite par ce projet.
 
+
 ## Module d'inscription pour Promising3 (inscription-promising3.zip)
 La troisième phase du projet Promising introduit le concept de module d'inscription par l'utilisateur, qui permet de mettre la création de comptes usagers et de portfolios entre les mains d'un usager Karuta (dans ce cas-ci l'enseignant d'un atelier en créativité Promising).
 
 Après que l'administrateur Karuta ait créé le compte de l'enseignant et l'atelier, l'enseignant envoi à ses étudiants un hyperlien qui leur permet de s'y inscrire. L'enseignant valide ensuite l'inscription de chaque étudiant puis lance la création des comptes et des portfolios. Au moment de la création du portfolio étudiant, une page est automatiquement ajoutée pour chaque étudiant dans le Portfolio d'évaluation pour l'enseignant, qui permet à ce dernier d'évaluer tous ses étudiants à même un unique portfolio.
 *Projet en français uniquement.*
+-->
 
 ## Présentation des concepts Get-Multiple et Import-Multiple (multiple-exemple1.zip)
 
