@@ -72,3 +72,7 @@ Après que l'administrateur Karuta ait créé le compte de l'enseignant et l'ate
 Projet qui présente l'utilisation des menus Get-Multiple et Import-Multiple et ce qui les différencie.
 
 Project introducing how to use Get-Multiple and Import-Multiple menus and the characteristics that differentiate them.
+
+## Projet Clé en main (cle-en-main.zip)
+
+Vous avez un référentiel de compétences? Vous voulez un projet simple et prêt à être utilisé pour le positionnement de vos participants vis à vis de ce référentiel? Le projet Clé en main! est pour vous! Développé par ePortfolium pour la communauté Karuta, Clé en main! propose trois modèles de portfolio, deux pour un référentiel qui inclut des descripteurs de niveaux de compétences et un avec des niveaux d'atteinte standard (excellent, bon, moyen, etc). Dans les trois cas, les compétences sont présentées une par page, avec le positionnement du participant (auto-évaluation) et l'évaluation par un tuteur. Avec une page de profil et un tableau de bord, le projet Clé en main! est simple, prêt à être utilisé, et peut être modifié au fil du temps pour incorporer des éléments spécifiques à votre environnement. Les instructions de mise en production se trouvent dans le portfolio README.
