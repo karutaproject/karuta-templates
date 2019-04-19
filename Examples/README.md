@@ -1,4 +1,4 @@
-# Exemples d'utilisation / Use Cases
+# Exemples de projets / Use Cases (complete projects)
 
 
 ## Projet Clé en main (cle-en-main.zip)
