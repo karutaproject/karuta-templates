@@ -14,7 +14,7 @@ Les instructions de mise en production se trouvent dans le portfolio README.
 Outil d'aide au cheminement professionnel tout au long de la vie utilisé par les IUT en France.\
 Processus axé sur les compétences (métiers et transversales).\
 Contient un outil d'aide à la rédaction de CV et d'une carte à bulles interactive (BubbleMap).\
-La nouvelle version développée pour l'université Côte d'Azur offre un portfolio d'évaluation par un évaluateur externe. Ce portfolio permet à l'évalateur de procéder à l'évaluation de toute sa cohorte à même un unique portfolio.\
+La nouvelle version développée pour l'université Côte d'Azur offre un portfolio d'évaluation par un évaluateur externe. Ce portfolio permet à l'évaluateur de procéder à l'évaluation de toute sa cohorte à même un unique portfolio.\
 *Projet en français uniquement.*
 
 Lifelong career development tool used by IUTs in France.\
