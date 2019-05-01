@@ -6,6 +6,19 @@
 Vous avez un référentiel de compétences? Vous voulez un projet simple et prêt à être utilisé pour le positionnement de vos participants vis à vis de ce référentiel? Le projet Clé en main est pour vous! Développé par ePortfolium pour la communauté Karuta, Clé en main propose trois modèles de portfolio, deux pour un référentiel qui inclut des descripteurs de niveaux de compétences et un avec des niveaux d'atteinte standard (excellent, bon, moyen, etc). Dans les trois cas, les compétences sont présentées une par page, avec le positionnement du participant (auto-évaluation) et l'évaluation par un tuteur. Avec une page de profil et un tableau de bord, le projet Clé en main est simple, prêt à être utilisé, et peut être modifié au fil du temps pour incorporer des éléments spécifiques à votre environnement. Les instructions de mise en production se trouvent dans le portfolio README.
 
 
+## Formation tout au long de la vie (ftlv.zip)
+
+Outil d'aide au cheminement professionnel tout au long de la vie utilisé par les IUT en France.
+Processus axé sur les compétences (métiers et transversales).
+Contient un outil d'aide à la rédaction de CV et d'une carte à bulles interactive (BubbleMap).
+*Projet en français uniquement.*
+
+Lifelong career development tool used by IUTs in France.
+Competency-based process (trade and transversal competencies).
+Contains a CV writing tool and an interactive bubble map (BubbleMap).
+*Project in French only.*
+
+
 ## HEC Carrières (hec-carrieres2.zip)
 
 Outil d'aide à la rédaction de CV à l'usage des étudiants de HEC Montréal.
@@ -27,21 +40,11 @@ Supporting tool for HEC Montreal's école des dirigeants program. L'école des d
 The teachers in each module have a different view of the portfolio. The project also includes a cohort summary (summary table on multiple portfolios) and a batch script (Batch).
 *Project in French only.*
 
-## Formation tout au long de la vie (ftlv.zip)
-
-Outil d'aide au cheminement professionnel tout au long de la vie utilisé par les IUT en France.
-Processus axé sur les compétences (métiers et transversales).
-Contient un outil d'aide à la rédaction de CV et d'une carte à bulles interactive (BubbleMap).
-*Projet en français uniquement.*
-
-Lifelong career development tool used by IUTs in France.
-Competency-based process (trade and transversal competencies).
-Contains a CV writing tool and an interactive bubble map (BubbleMap).
-*Project in French only.*
 
 ## PPE en ligne (ppe-enligne.zip)
 Outil d'accompagnement pour un cours de politique économique offert par HEC Montréal. Le portfolio est prévu pour une équipe de 5 étudiants : certaines partie sont éditables par les 5 alors que d'autres sont éditables par un seul membre de l'équipe. Le processus de création par lot (batch) met à jours les rôles ainsi que les libellés des différentes sections avec les nom des étudiants.
 *Projet en français uniquement.*
+
 
 ## Promising2 (promising2.zip)
 
