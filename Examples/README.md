@@ -42,7 +42,7 @@ Contains a CV writing tool and an interactive bubble map (BubbleMap).
 ## PPE en ligne (ppe-enligne.zip)
 Outil d'accompagnement pour un cours de politique économique offert par HEC Montréal. Le portfolio est prévu pour une équipe de 5 étudiants : certaines partie sont éditables par les 5 alors que d'autres sont éditables par un seul membre de l'équipe. Le processus de création par lot (batch) met à jours les rôles ainsi que les libellés des différentes sections avec les nom des étudiants.
 *Projet en français uniquement.*
-
+<!--
 ## Promising2 (promising2.zip)
 
 Outil d'accompagnement à un atelier sur la créativité offert par l'université Grenoble Alpes dans ses différents programmes.
@@ -54,7 +54,7 @@ Support tool for a workshop on creativity offered by the University of Grenoble 
 Competency-based process.
 Contains a star table (Dashboard with SVG element), a batch script (Batch) and it's associated form (BatchForm).
 *Project in French only.*
-
+-->
 <!--
 ## Promising3 (promising3.zip)
 Cette troisième version du projet Promising introduit l'usage d'éléments Image comme choix dans des éléments Get-Resource (au lieu d'éléments Item). Ceci résout le problème de l'affichage des évaluations de type smiley dans les fichiers exportés (export de tableaux et du portfolio en entier).
@@ -71,9 +71,10 @@ La troisième phase du projet Promising introduit le concept de module d'inscrip
 Après que l'administrateur Karuta ait créé le compte de l'enseignant et l'atelier, l'enseignant envoi à ses étudiants un hyperlien qui leur permet de s'y inscrire. L'enseignant valide ensuite l'inscription de chaque étudiant puis lance la création des comptes et des portfolios. Au moment de la création du portfolio étudiant, une page est automatiquement ajoutée pour chaque étudiant dans le Portfolio d'évaluation pour l'enseignant, qui permet à ce dernier d'évaluer tous ses étudiants à même un unique portfolio.
 *Projet en français uniquement.*
 -->
-
+<!--
 ## Présentation des concepts Get-Multiple et Import-Multiple (multiple-exemple1.zip)
 
 Projet qui présente l'utilisation des menus Get-Multiple et Import-Multiple et ce qui les différencie.
 
 Project introducing how to use Get-Multiple and Import-Multiple menus and the characteristics that differentiate them.
+-->
