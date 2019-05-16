@@ -1,7 +1,7 @@
 # Exemples de projets / Use Cases (complete projects)
 
 
-## Clé en main (cle-en-main.zip) - version corrigée 01/05/2019
+## Clé en main (cle-en-main.zip) - version corrigée 16/05/2019
 
 Vous avez un référentiel de compétences? Vous voulez un projet simple et prêt à être utilisé pour le positionnement de vos participants vis à vis de ce référentiel?\
 Le projet Clé en main est pour vous! Développé par ePortfolium pour la communauté Karuta, Clé en main propose trois modèles de portfolio, deux pour un référentiel qui inclut des descripteurs de niveaux de compétences et un avec des niveaux d'atteinte standard (excellent, bon, moyen, etc). Dans les trois cas, les compétences sont présentées une par page, avec le positionnement du participant (auto-évaluation) et l'évaluation par un tuteur.\
