@@ -63,7 +63,7 @@ Contains a star table (Dashboard with SVG element), a batch script (Batch) and i
 *Project in French only.*
 
 
-## Promising3 (promising3.zip) - nécessite le projet Promising2
+## Promising3 (promising3.zip) - nécessite le projet Promising2 et le module d'inscription Promising3 (promising2.zip et inscription-promising3.zip)
 Cette troisième version du projet Promising introduit l'usage d'éléments Image comme choix dans des éléments Get-Resource (au lieu d'éléments Item). Ceci résout le problème de l'affichage des évaluations de type smiley dans les fichiers exportés (export de tableaux et du portfolio en entier).\
 Note : les objets Image doivent être créés à même le portfolio plutôt que dans un référentiel.
 
