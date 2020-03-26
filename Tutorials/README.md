@@ -1,6 +1,3 @@
-# Tutoriels de fonctions avancées
-
-
 ## Tutoriel élément GetGetResource (tutoriel-GGR.zip)
 Ce tutoriel montre comment utiliser l'élément GetGetRessource.
 
