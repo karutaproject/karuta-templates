@@ -37,9 +37,9 @@ Ce tutoriel montre comment utiliser la variable compteur d'un élément ForEachN
 ## Tutoriel tableau éditable par les usagers (tutoriel-tableau-editable.zip)
 Ce tutoriel montre comment écrire un script de tableau pour que l'usager puisse éditer des ressources via un tableau.
 
-## Tutoriel tableau étoile (élément SVG) (tutoriel-tableau-etoile.zip)
+## Tutoriel tableau étoile (tutoriel-tableau-etoile.zip)
 Ce tutoriel montre comment utiliser l'élément SVG pour écrire le script d'un tableau étoile (toile).
 
-## Tutoriel tableau avec thèmes de couleurs (élément SVG) (tutoriel-tableau-variables-couleur.zip)
+## Tutoriel tableau avec thèmes de couleurs (tutoriel-tableau-variables-couleur.zip)
 Ce tutoriel montre comment utiliser des variables pour définir le thème de couleurs d'un tableau et comment passer les valeurs 
 en paramètre lors de l'appel au script de tableau.
