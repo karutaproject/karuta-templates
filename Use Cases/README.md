@@ -9,7 +9,7 @@ Avec une page de profil et un tableau de bord, le projet Clé en main est simple
 Les instructions de mise en production se trouvent dans le portfolio README.
 
 
-## Formation tout au long de la vie (ftlv.zip) - nouvelle version 01/05/2019
+## Formation tout au long de la vie (ftlv.zip) - nouvelle version 01/2020 en test
 
 Outil d'aide au cheminement professionnel tout au long de la vie utilisé par les IUT en France.\
 Processus axé sur les compétences (métiers et transversales).\
