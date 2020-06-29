@@ -9,7 +9,7 @@ Avec une page de profil et un tableau de bord, le projet Clé en main est simple
 Les instructions de mise en production se trouvent dans le portfolio README.
 
 
-## Formation tout au long de la vie (ftlv.zip) - nouvelle version 01/2020 en test
+## Formation tout au long de la vie (ftlv.zip) - nouvelle version 01/2020
 
 Outil d'aide au cheminement professionnel tout au long de la vie utilisé par les IUT en France.\
 Processus axé sur les compétences (métiers et transversales).\
@@ -78,3 +78,10 @@ La troisième phase du projet Promising introduit le concept de module d'inscrip
 
 Après que l'administrateur Karuta ait créé le compte de l'enseignant et l'atelier, l'enseignant envoi à ses étudiants un hyperlien qui leur permet de s'y inscrire. L'enseignant valide ensuite l'inscription de chaque étudiant puis lance la création des comptes et des portfolios. Au moment de la création du portfolio étudiant, une page est automatiquement ajoutée pour chaque étudiant dans le Portfolio d'évaluation pour l'enseignant, qui permet à ce dernier d'évaluer tous ses étudiants à même un unique portfolio.\
 *Projet en français uniquement.*
+
+## Développement d'un référentiel de compéteces (unice-luca.zip)
+
+Le modèle Référentiel de compétences de l'Université de Nice permet à une équipe d'enseignants de créer de façon collaborative
+ un référentiel en liant les compétences à des niveaux de développement, des  apprentissages critiques, des domaines de ressources,
+  des situations professionnelles et des éléments du RNCP national.  De plus, le modèle offre une vue imprimable synthèse de toutes
+   ces composantes.  Note:  Il s'agit d'une version en cours de développement et de test.
