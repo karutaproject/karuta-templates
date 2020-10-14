@@ -40,3 +40,6 @@ Ce tutoriel montre comment utiliser l'élément SVG pour écrire le script d'un 
 ## Tutoriel tableau avec thèmes de couleurs (tutoriel-tableau-variables-couleur.zip)
 Ce tutoriel montre comment utiliser des variables pour définir le thème de couleurs d'un tableau et comment passer les valeurs 
 en paramètre lors de l'appel au script de tableau.
+
+## Tutoriel mise à jour d'instance (tutoriel-maj-instances-2020-10-14 194126.zip)
+Ce tutoriel propose 4 exemples de mises à jour d'instances (ajout et modification d'éléments)
